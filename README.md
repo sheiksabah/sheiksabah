@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! This is Sheikh Ali and welcome to my GitHub!</h1>
+<h1 align="left">Hi 👋! This is Sheik Sabah and welcome to my GitHub!</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/sheikksabah/" target="_blank">
+  <a href="https://www.instagram.com/sheikksabah_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/sheiksabah0188" target="_blank">
