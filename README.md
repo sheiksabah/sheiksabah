@@ -1,4 +1,4 @@
-# Hi 👋! This is Sheik Sabah and welcome to my GitHub!
+# Hello 👋! This is Sheik Sabah and welcome to my GitHub!
 
 <div align="center">
   <img src="./profile-summary-card-output/dracula/3-stats.svg" height="150" alt="GitHub stats" />
